@@ -40,9 +40,7 @@ An MLP neural network used to clasify images.
 More details will follow as project progresses.
 
 ### Objectives
-- Connect raw data with input queries
-- Optimize model using ground truths
-- Evaluate final solution
+
 
 
 ## Data Science Methodology
